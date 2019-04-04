@@ -1,0 +1,12 @@
+{
+  "name": "basic-victory-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "victory": "0.24.3",
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  }
+}
